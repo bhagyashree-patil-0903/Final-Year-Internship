@@ -43,7 +43,7 @@ The internship involved applying Python programming concepts for data handling, 
 
 ## 📂 Repository Contents
 
-* `Internship_Report.pdf / .docx`- file:///C:/Users/Bhagyashree%20Patil/Downloads/CSE7301_INTERNSHIP_REPORT_20211cse0372%20(1).pdf – Final internship report
+* `Internship_Report.pdf / .docx- Final internship report
 * `Internship_Review_Templates/` – Templates used for posting internship reviews
 
 ---
